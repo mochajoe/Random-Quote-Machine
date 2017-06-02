@@ -1,0 +1,23 @@
+#quotegenerator{
+	/*background-color: #bbff00;
+	position: fixed;
+	top: 50%;*/
+	width: 75%;
+    height: 25%;
+    background-color: red;
+
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    margin: auto;
+}
+
+p {
+	font-size: 20;
+}
+button {
+	color:blue;
+}
