@@ -3,8 +3,8 @@
 	position: fixed;
 	top: 50%;*/
 	width: 75%;
-    height: 25%;
-    background-color: red;
+    height: 35%;
+    background-color: darkgreen;
 
     position: absolute;
     top:0;
@@ -13,11 +13,23 @@
     right: 0;
 
     margin: auto;
+    font-family: sans-serif;
+    border-radius: 25px;
 }
+#quoteButton {
+	position: absolute;
 
+    left: 45%;
+    right: 0;
+    bottom: 28%;
+
+}
 p {
 	font-size: 20;
 }
 button {
 	color:blue;
+}
+body {
+	background-color: teal;
 }
