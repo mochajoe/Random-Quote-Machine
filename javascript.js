@@ -1,3 +1,4 @@
+//Used Jquery
 
 $(document).ready(function(){
 
