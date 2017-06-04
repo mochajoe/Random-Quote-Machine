@@ -1,5 +1,9 @@
 //Used Jquery
 
+
+
+
+//used get JSON Jquery to fetch the data from an API
 $(document).ready(function(){
 
 var getQuote = function() {
