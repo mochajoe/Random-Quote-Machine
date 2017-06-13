@@ -1,7 +1,7 @@
 //used get JSON Jquery to fetch the data from an API
 
 
-
+//Small Changes
 $(document).ready(function(){
 
 var getQuote = function() {
