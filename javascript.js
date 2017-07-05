@@ -1,5 +1,5 @@
 //used get JSON Jquery to fetch the data from an API
-// testing out some stuff
+// testing out some stufffff
 
 $(document).ready(function(){
 
