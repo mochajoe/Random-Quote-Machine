@@ -1,4 +1,5 @@
 //used get JSON Jquery to fetch the data from an API
+//ssddd 
 
 
 $(document).ready(function(){
