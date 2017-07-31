@@ -1,5 +1,5 @@
 //used get JSON Jquery to fetch the data from an API
-//ssddd sfdsfsfsdf
+//ssddd 
 
 
 $(document).ready(function(){
