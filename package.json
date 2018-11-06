@@ -1,0 +1,19 @@
+{
+  "name": "random-quote-machine",
+  "version": "1.0.0",
+  "description": "Click on the button to generate a new Quote!",
+  "main": "javascript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mochajoe/Random-Quote-Machine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mochajoe/Random-Quote-Machine/issues"
+  },
+  "homepage": "https://github.com/mochajoe/Random-Quote-Machine#readme"
+}
