@@ -10,7 +10,7 @@ $.getJSON("http://api.forismatic.com/api/1.0/?method=getQuote&format=jsonp&lang=
     var $quoteAuthero ='- ' + json.quoteAuthor;
     console.log(json);
 
-    $('#quotegenerator').html('<br>' + $quoteText + '<br/><br/><br/><br/><br/>');
+    $('#quotegenerator').html('<br>' + $quoteText + '<br/><br/><br/><br/><br/>' + 'have a nice day! :)');
     $('#quotegenerator').append($quoteAuthero);
   })
 }
